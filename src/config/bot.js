@@ -10,7 +10,7 @@ export const botConfig = {
   // - "watching over .toph"      = yellow moon
   // - "im sleeping stfu"       = red do-not-disturb
   // - "asleep" = appears offline
-  presence: {red do-not-disturb}
+  presence: {
     // Current online state shown on Discord.
     status: "yz0n is my slut",
 
