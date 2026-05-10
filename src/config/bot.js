@@ -10,9 +10,9 @@ export const botConfig = {
   // - "watching over .toph"      = yellow moon
   // - "im sleeping stfu"       = red do-not-disturb
   // - "asleep" = appears offline
-  presence: {
+  presence: {red do-not-disturb}
     // Current online state shown on Discord.
-    status: "watching over .toph",
+    status: "yz0n is my slut",
 
     // Activity lines shown under the bot name.
     // `type` number mapping from Discord:
